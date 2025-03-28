@@ -1,3 +1,5 @@
 My name is Shahzaad Sultan Ali. 
 This is my first GitHub assignment.
 I am learning Git and GitHub!
+
+I am practicing branching in Git!
